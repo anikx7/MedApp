@@ -3,9 +3,9 @@ Spring 2019 - Summer 2019
 Group name: DynaMavs, Group Members: Rafid Ishrak Jahan, Farzana Rahman, Mohammed Al Aadhami
 The University of Texas at Arlington, TX USA
 
-#Project homepage link: https://blog.uta.edu/cseseniordesign/2019/04/12/medapp/
+# Project homepage link: https://blog.uta.edu/cseseniordesign/2019/04/12/medapp/
 
-#How to install MedApp - Android Studio
+# How to install MedApp - Android Studio
 1. Clone the whole repository or download .zip folder
 2. Unzip the downloaded folder (in case of download)
 3. Open Android Studio
@@ -15,7 +15,7 @@ The University of Texas at Arlington, TX USA
 
 
 
-#Envrionments
+# Envrionments
 Operating System: Windows 10
 Android Studio 3.3
 Programming language: Java 11.0.2
