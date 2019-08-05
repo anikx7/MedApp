@@ -3,7 +3,7 @@ Spring 2019 - Summer 2019
 Group name: DynaMavs, Group Members: Rafid Ishrak Jahan, Farzana Rahman, Mohammed Al Aadhami
 The University of Texas at Arlington, TX USA
 
-# Project homepage link: https://blog.uta.edu/cseseniordesign/2019/04/12/medapp/
+Project homepage link: https://blog.uta.edu/cseseniordesign/2019/04/12/medapp/
 
 # How to install MedApp - Android Studio
 1. Clone the whole repository or download .zip folder
@@ -11,7 +11,7 @@ The University of Texas at Arlington, TX USA
 3. Open Android Studio
 4. Click File -> Open Project (open cloned folder)
 5. Build the whole application
-6. User emulator to utilze OCR scanning feature
+6. Use an Android device with a camera to utilze OCR scanning feature
 
 
 
